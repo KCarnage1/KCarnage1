@@ -1,67 +1,24 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=kcarnage1&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171648887%3Fu%3Dd86fa8ee1b425282ca42fedbef8897c1f7585c1a%26v%3D4" alt="kcarnage1 hero visual" />
-</p>
+# 💫 About Me:
+Anime Addict<br><br>HTML,CSS,Java,Luau,Python<br>
 
-<p align="center"><b>KCarnage</b> · Frontend or full-stack engineer<br/><sub>HTML, CSS, Java, Python
 
-Projects in development...</sub></p>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/75X42e4CC3) 
 
-<p align="center"><a href="https://github.com/kcarnage1">GitHub</a> · <a href="https://haunt.gg/kcn">Website</a></p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=KCarnage1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=KCarnage1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KCarnage1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<details open>
-<summary><b>📌 Top projects</b></summary>
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KCarnage1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=kcarnage1&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171648887%3Fu%3Dd86fa8ee1b425282ca42fedbef8897c1f7585c1a%26v%3D4" alt="kcarnage1 projects visual" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-- [jiran-connect](https://github.com/KCarnage1/jiran-connect) · ★ 0
-- [UltraNiko-Updated](https://github.com/KCarnage1/UltraNiko-Updated) · ★ 0 — Recode of a old Ultrakill mod
-- [My-Persona-Portfolio](https://github.com/KCarnage1/My-Persona-Portfolio) · ★ 0 — Portfolio Persona 3/5 Theme
+---
+[![](https://komarev.com/ghpvc/?username=KCarnage1&icon=4&color=7)](https://visitcount.itsvg.in)
 
-</details>
-
-<details>
-<summary><b>🧰 Stack</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=kcarnage1&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171648887%3Fu%3Dd86fa8ee1b425282ca42fedbef8897c1f7585c1a%26v%3D4" alt="kcarnage1 stack visual" />
-</p>
-
-</details>
-
-<details>
-<summary><b>📊 By the numbers</b></summary>
-<br/>
-
-<b>3</b> public repositories, <b>0</b> stars, <b>23</b> contributions in the last year, a longest streak of <b>2</b> days and <b>0</b> followers.
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=kcarnage1&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171648887%3Fu%3Dd86fa8ee1b425282ca42fedbef8897c1f7585c1a%26v%3D4" alt="kcarnage1 stats visual" />
-</p>
-
-</details>
-
-<details>
-<summary><b>🟩 Activity</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=kcarnage1&theme=neon" alt="kcarnage1 contribution activity" />
-</p>
-
-</details>
-
-<details>
-<summary><b>👋 Say hello</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=kcarnage1&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171648887%3Fu%3Dd86fa8ee1b425282ca42fedbef8897c1f7585c1a%26v%3D4" alt="kcarnage1 social visual" />
-</p>
-
-</details>
-
-<p align="center"><sub>KCarnage · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
