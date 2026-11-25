@@ -16,7 +16,7 @@ Right now I'm going deeper into cloud engineering: how applications get deployed
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [Jiran Connect](https://github.com/KCarnage1/jiran-connect) ([live demo](https://kcarnage1.github.io/jiran-connect/)) | Privacy-first, Arabic and English community platform for the UAE, with row-level security on every table | Next.js, TypeScript, Supabase |
+| [Jiran Connect](https://github.com/KCarnage1/jiran-connect) ([live demo](https://kcarnage1.github.io/jiran-connect/)) | Privacy-first, Arabic and English community platform for the UAE. Built for a hackathon I traveled to. Row-level security on every table | Next.js, TypeScript, Supabase |
 | [Five Nights at Zayed's](https://github.com/KCarnage1/FiveNightsAtZayeds) | Desktop horror game with online co-op over WebRTC, for Windows and macOS | Electron, JavaScript |
 | [Cloud Task Manager](https://github.com/KCarnage1/cloud-task-manager) | Accounts, a three-column board and a status history; hashed passwords, rate limiting and per-user access | Java, JavaScript |
 | [Cloud Backup Tool](https://github.com/KCarnage1/cloud-backup-tool) | Watches a folder, compresses what changed, uploads with retries and restores with checksums | Python |
