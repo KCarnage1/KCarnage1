@@ -48,6 +48,6 @@ Anime, games, and scripting in Luau for Roblox.
 
 ## Find me
 
-[Portfolio](https://kcarnage1.github.io/My-Persona-Portfolio/) · [Discord](https://discord.gg/75X42e4CC3) · [Instagram](https://www.instagram.com/kc.cc0)
+[Portfolio](https://kcarnage1.github.io/My-Persona-Portfolio/) · [Discord](https://discord.gg/75X42e4CC3)
 
 <div align="center"><sub>The portfolio has three Persona looks, and this page is Persona 3 Reload. Take your time.</sub></div>
