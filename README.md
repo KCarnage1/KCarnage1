@@ -1,24 +1,53 @@
-# 💫 About Me:
-Anime Addict<br><br>HTML,CSS,Java,Luau,Python<br>
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/KCarnage1/KCarnage1/main/assets/banner.png" alt="KCARNAGE, IT undergraduate, software and cloud, in cut-out lettering on a blue and red banner" width="100%">
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/75X42e4CC3) 
+[**Portfolio**](https://kcarnage1.github.io/My-Persona-Portfolio/) · [**Projects**](https://kcarnage1.github.io/My-Persona-Portfolio/#projects) · [**Contact**](https://kcarnage1.github.io/My-Persona-Portfolio/#contact)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KCarnage1&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=KCarnage1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KCarnage1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KCarnage1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Hi, I'm KC
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+I'm an IT undergraduate who builds web apps, desktop games and the servers behind them. I like knowing what actually happens between the code on screen and the machine keeping it online, so I learn by building something, breaking it, and working out why it broke.
 
----
-[![](https://komarev.com/ghpvc/?username=KCarnage1&icon=4&color=7)](https://visitcount.itsvg.in)
+Right now I'm going deeper into cloud engineering: how applications get deployed, scaled and kept secure.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I've built
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [Jiran Connect](https://github.com/KCarnage1/jiran-connect) ([live demo](https://kcarnage1.github.io/jiran-connect/)) | Privacy-first, Arabic and English community platform for the UAE, with row-level security on every table | Next.js, TypeScript, Supabase |
+| [Five Nights at Zayed's](https://github.com/KCarnage1/FiveNightsAtZayeds) | Desktop horror game with online co-op over WebRTC, for Windows and macOS | Electron, JavaScript |
+| [Cloud Task Manager](https://github.com/KCarnage1/cloud-task-manager) | Accounts, a three-column board and a status history; hashed passwords, rate limiting and per-user access | Java, JavaScript |
+| [Cloud Backup Tool](https://github.com/KCarnage1/cloud-backup-tool) | Watches a folder, compresses what changed, uploads with retries and restores with checksums | Python |
+| [Server Monitoring Dashboard](https://github.com/KCarnage1/server-monitoring-dashboard) | Live CPU, memory, disk and network charts in the browser | Python, JavaScript |
+| [Library Management System](https://github.com/KCarnage1/library-management-system) | Command-line library desk, written in Java and again in C++ to compare the two | Java, C++ |
+| [UltraNiko Updated](https://github.com/KCarnage1/UltraNiko-Updated) | A recode of an old ULTRAKILL mod, with full credit to the original authors | ULTRAKILL modding |
+| [My Persona Portfolio](https://github.com/KCarnage1/My-Persona-Portfolio) | The site above: Persona 3 and 5 menus in plain HTML, CSS and JavaScript, with a music player | JavaScript |
+
+## What I use
+
+**Languages**<br>
+<img src="https://raw.githubusercontent.com/KCarnage1/KCarnage1/main/assets/badges/python.svg" alt="Python" height="38"> <img src="https://raw.githubusercontent.com/KCarnage1/KCarnage1/main/assets/badges/java.svg" alt="Java" height="38"> <img src="https://raw.githubusercontent.com/KCarnage1/KCarnage1/main/assets/badges/javascript.svg" alt="JavaScript" height="38"> <img src="https://raw.githubusercontent.com/KCarnage1/KCarnage1/main/assets/badges/typescript.svg" alt="TypeScript" height="38"> <img src="https://raw.githubusercontent.com/KCarnage1/KCarnage1/main/assets/badges/cpp.svg" alt="C++" height="38"> <img src="https://raw.githubusercontent.com/KCarnage1/KCarnage1/main/assets/badges/luau.svg" alt="Luau" height="38">
+
+**Web and cloud**<br>
+<img src="https://raw.githubusercontent.com/KCarnage1/KCarnage1/main/assets/badges/html.svg" alt="HTML" height="38"> <img src="https://raw.githubusercontent.com/KCarnage1/KCarnage1/main/assets/badges/css.svg" alt="CSS" height="38"> <img src="https://raw.githubusercontent.com/KCarnage1/KCarnage1/main/assets/badges/next-js.svg" alt="Next.js" height="38"> <img src="https://raw.githubusercontent.com/KCarnage1/KCarnage1/main/assets/badges/supabase.svg" alt="Supabase" height="38"> <img src="https://raw.githubusercontent.com/KCarnage1/KCarnage1/main/assets/badges/electron.svg" alt="Electron" height="38"> <img src="https://raw.githubusercontent.com/KCarnage1/KCarnage1/main/assets/badges/docker.svg" alt="Docker" height="38">
+
+**Tools**<br>
+<img src="https://raw.githubusercontent.com/KCarnage1/KCarnage1/main/assets/badges/linux.svg" alt="Linux" height="38"> <img src="https://raw.githubusercontent.com/KCarnage1/KCarnage1/main/assets/badges/git.svg" alt="Git" height="38">
+
+## Ask me about
+
+- Testing code against the things that go wrong: broken storage, bad input, a second user poking at the first one's data
+- Writing the same program in two languages (Java and C++) and what changes
+- Keeping small web apps secure without a framework doing it for you
+
+## Outside code
+
+Anime, games, and scripting in Luau for Roblox.
+
+## Find me
+
+[Portfolio](https://kcarnage1.github.io/My-Persona-Portfolio/) · [Discord](https://discord.gg/75X42e4CC3) · [Instagram](https://www.instagram.com/kc.cc0)
+
+<div align="center"><sub>The portfolio is styled after Persona 3 and 5. Take your time.</sub></div>

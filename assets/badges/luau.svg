@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="111" height="38" viewBox="0 0 111 38" role="img" aria-label="Luau">
+  <title>Luau</title>
+  <polygon points="11,4 107,4 100,38 4,38" fill="#e60012"/>
+  <polygon points="7,0 103,0 96,34 0,34" fill="#000"/>
+  <g transform="translate(19 8) scale(0.75)" fill="#fff"><path d="M18.926 23.998 0 18.892 5.075.002 24 5.108ZM15.348 10.09l-5.282-1.453-1.414 5.273 5.282 1.453z"/></g>
+  <text x="47" y="22" fill="#fff" font-family="Impact, 'Arial Narrow Bold', 'Arial Black', Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0.6" textLength="38" lengthAdjust="spacingAndGlyphs">LUAU</text>
+</svg>
