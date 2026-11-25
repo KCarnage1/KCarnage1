@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KCarnage1/KCarnage1/main/assets/banner.png" alt="KCARNAGE, IT undergraduate, software and cloud, in cut-out lettering on a blue and red banner" width="100%">
+<img src="https://raw.githubusercontent.com/KCarnage1/KCarnage1/main/assets/banner.png" alt="KCARNAGE, IT undergraduate, software and cloud, on a Persona 3 Reload style blue banner with a full moon and clock rings" width="100%">
 
 [**Portfolio**](https://kcarnage1.github.io/My-Persona-Portfolio/) · [**Projects**](https://kcarnage1.github.io/My-Persona-Portfolio/#projects) · [**Contact**](https://kcarnage1.github.io/My-Persona-Portfolio/#contact)
 
@@ -23,7 +23,7 @@ Right now I'm going deeper into cloud engineering: how applications get deployed
 | [Server Monitoring Dashboard](https://github.com/KCarnage1/server-monitoring-dashboard) | Live CPU, memory, disk and network charts in the browser | Python, JavaScript |
 | [Library Management System](https://github.com/KCarnage1/library-management-system) | Command-line library desk, written in Java and again in C++ to compare the two | Java, C++ |
 | [UltraNiko Updated](https://github.com/KCarnage1/UltraNiko-Updated) | A recode of an old ULTRAKILL mod, with full credit to the original authors | ULTRAKILL modding |
-| [My Persona Portfolio](https://github.com/KCarnage1/My-Persona-Portfolio) | The site above: Persona 3 and 5 menus in plain HTML, CSS and JavaScript, with a music player | JavaScript |
+| [My Persona Portfolio](https://github.com/KCarnage1/My-Persona-Portfolio) | The site above: Persona 5, Persona 5 Royal and Persona 3 Reload looks you can switch between, in plain HTML, CSS and JavaScript, with a music player | JavaScript |
 
 ## What I use
 
@@ -50,4 +50,4 @@ Anime, games, and scripting in Luau for Roblox.
 
 [Portfolio](https://kcarnage1.github.io/My-Persona-Portfolio/) · [Discord](https://discord.gg/75X42e4CC3) · [Instagram](https://www.instagram.com/kc.cc0)
 
-<div align="center"><sub>The portfolio is styled after Persona 3 and 5. Take your time.</sub></div>
+<div align="center"><sub>The portfolio has three Persona looks, and this page is Persona 3 Reload. Take your time.</sub></div>

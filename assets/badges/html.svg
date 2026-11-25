@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="111" height="38" viewBox="0 0 111 38" role="img" aria-label="HTML">
   <title>HTML</title>
-  <polygon points="11,4 107,4 100,38 4,38" fill="#e60012"/>
-  <polygon points="7,0 103,0 96,34 0,34" fill="#000"/>
-  <g transform="translate(19 8) scale(0.75)" fill="#fff"><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></g>
-  <text x="47" y="22" fill="#fff" font-family="Impact, 'Arial Narrow Bold', 'Arial Black', Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0.6" textLength="38" lengthAdjust="spacingAndGlyphs">HTML</text>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d3a8c"/><stop offset="1" stop-color="#04122f"/></linearGradient></defs>
+  <polygon points="11,4 107,4 100,38 4,38" fill="#2160f0"/>
+  <polygon points="7,0 103,0 96,34 0,34" fill="url(#g)"/>
+  <polygon points="7,0 103,0 96,34 0,34" fill="none" stroke="#8cc4ff" stroke-opacity=".55" stroke-width="1"/>
+  <g transform="translate(19 8) scale(0.75)" fill="#eaf4ff"><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></g>
+  <text x="47" y="22" fill="#eaf4ff" font-family="Impact, 'Arial Narrow Bold', 'Arial Black', Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="0.6" textLength="38" lengthAdjust="spacingAndGlyphs">HTML</text>
 </svg>
